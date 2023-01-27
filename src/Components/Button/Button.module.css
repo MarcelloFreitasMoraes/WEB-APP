@@ -1,0 +1,49 @@
+button {
+    border: none;
+    background-color: transparent;
+    font-size: 14px;
+    margin: 0px 3px;
+}
+
+.button {
+    align-items: center;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 9px 9px;
+}
+
+.button span {
+    margin-left: 4px;
+}
+
+.button--color_green,
+.button--color_red,
+.button--color_blue,
+.button--color-grey,
+.button--color_orange
+{
+    color: white;
+}
+
+.button--color_green {
+    background-color: #059669;
+}
+
+.button--color_red {
+    background-color: #EF4444;
+}
+
+.button--color_blue {
+    background-color: #6366F1;
+}
+
+.button--color-grey {
+    background-color: #A8A29E;
+}
+
+.button--color_orange {
+    background-color: #D97706;
+}

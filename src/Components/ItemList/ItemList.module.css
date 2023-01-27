@@ -1,0 +1,21 @@
+.itemList {
+    align-items: center;
+    background:#FFF;
+    border-radius:4px;
+    box-shadow:0px 24px 48px 0 rgba(0,0,0,0.16);
+    display: flex;
+    height: 40px;
+    margin-top: 8px;
+    padding: 0 10px;
+    width: 98%;
+}
+
+.itemList--color_green {
+    color: white;
+    background-color: #059669;
+}
+
+.itemList--color_red {
+    color: white;
+    background-color: #EF4444;
+}

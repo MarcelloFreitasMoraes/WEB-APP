@@ -1,0 +1,13 @@
+main {
+    margin-bottom: 2em;
+    margin-left: 14em;
+    margin-right: 2em;
+    margin-top: 6.5em;
+    width: 100%;
+}
+
+@media screen and (max-width: 620px) {
+    main {
+        margin-left: 2em;
+    }
+}

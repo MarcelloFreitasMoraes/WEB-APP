@@ -1,0 +1,249 @@
+/* Font Config */
+/* SIZE */
+.fontSize_14px{
+    font-size: 14px;
+}
+
+/* COLOR */
+.fontColor_theme {
+    color: #334155;
+}
+
+.fontColor_green {
+    color: #059669;
+}
+
+.fontColor_red {
+    color: #EF4444;
+}
+
+.fontColor_blue {
+    color: #6366F1;
+}
+
+.fontColor_orange {
+    color: #D97706;
+}
+
+/* LINKS */
+
+a {
+    text-decoration: none;
+}
+
+/* WEIGHT */
+.fontWeight_medium {
+    font-weight: 600;
+}
+
+/* FLEX CONFIG */
+
+.flex {
+    display: flex;
+}
+
+.flexDirection_row {
+    flex-direction: row;
+}
+
+.flexDirection_column {
+    flex-direction: column;
+}
+
+.justifyContent_center {
+    justify-content: center;
+}
+
+.justifyContent_spaceBetween {
+    justify-content: space-between;
+}
+
+.justifyContent_spaceEvenly {
+    justify-content: space-evenly;
+}
+
+.justifyContent_spaceAround {
+    justify-content: space-around;
+}
+
+.alignItems_center {
+    align-items: center;
+}
+
+/* WIDTH*/
+
+.width_100 {
+    width: 100%;
+}
+
+.width_98 {
+    width: 98%;
+}
+
+.width_90 {
+    width: 90%;
+}
+
+.width_80 {
+    width: 80%;
+}
+
+.width_70 {
+    width: 70%;
+}
+
+.width_65 {
+    width: 65%;
+}
+
+.width_60 {
+    width: 60%;
+}
+
+.width_50 {
+    width: 50%;
+}
+
+.width_44 {
+    width: 44%;
+}
+
+.width_43 {
+    width: 43%;
+}
+
+.width_40 {
+    width: 40%;
+}
+
+.width_33 {
+    width: 33%;
+}
+
+.width_32 {
+    width: 32%;
+}
+
+.width_30 {
+    width: 30%;
+}
+
+.width_25 {
+    width: 25%;
+}
+
+.width_24 {
+    width: 24%;
+}
+
+.width_23 {
+    width: 23%;
+}
+
+.width_22 {
+    width: 22%;
+}
+
+.width_20 {
+    width: 20%;
+}
+
+.width_18 {
+    width: 18%;
+}
+
+.width_17 {
+    width: 17%;
+}
+
+.width_16 {
+    width: 16%;
+}
+
+.width_15 {
+    width: 15%;
+}
+
+.width_14 {
+    width: 14%;
+}
+
+.width_13 {
+    width: 13%;
+}
+
+.width_10 {
+    width: 10%;
+}
+
+.width_9 {
+    width: 9%;
+}
+
+/* height */
+
+.height_100 {
+    height: 100%;
+}
+
+.height_50px {
+    height: 50px;
+}
+
+.height_100px {
+    height: 100px;
+}
+
+.height_120px {
+    height: 120px;
+}
+
+.height_150px {
+    height: 150px;
+}
+
+.height_200px {
+    height: 200px;
+}
+
+.height_250px {
+    height: 250px;
+}
+
+.height_300px {
+    height: 300px;
+}
+
+.height_350px {
+    height: 350px;
+}
+
+.height_400px {
+    height: 350px;
+}
+
+/* Margin */
+
+.mg-bottom_30px {
+    margin-bottom: 30px;
+}
+
+.mg-top_30px {
+    margin-top: 30px;
+}
+
+.mg-top_60px {
+    margin-top: 60px;
+}
+
+/* Item List Custom */
+
+ul {
+    list-style-type: none;
+    display: contents;
+}
+
+li {
+    margin: 0px;
+    padding: 0px;
+}
